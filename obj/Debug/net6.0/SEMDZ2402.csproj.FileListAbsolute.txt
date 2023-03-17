@@ -1,0 +1,30 @@
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.AssemblyInfo.cs
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.exe
+C:\Users\Дом\Desktop\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.deps.json
+C:\Users\Дом\Desktop\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.runtimeconfig.json
+C:\Users\Дом\Desktop\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.dll
+C:\Users\Дом\Desktop\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.pdb
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.dll
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\refint\SEMDZ2402.dll
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.pdb
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.genruntimeconfig.cache
+C:\Users\Дом\Desktop\SEMDZ2402\obj\Debug\net6.0\ref\SEMDZ2402.dll
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.AssemblyInfo.cs
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.dll
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\refint\SEMDZ2402.dll
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.pdb
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.exe
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.deps.json
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.runtimeconfig.json
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.dll
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\bin\Debug\net6.0\SEMDZ2402.pdb
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\SEMDZ2402.genruntimeconfig.cache
+C:\Users\Дом\Desktop\ВСЕ ПО С#\SEMDZ2402\obj\Debug\net6.0\ref\SEMDZ2402.dll
